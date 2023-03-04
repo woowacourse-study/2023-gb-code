@@ -1,8 +1,8 @@
 ---
 name: weekly_todo_template
 about: 매주 목표를 작성할 때 사용하는 템플릿입니다.
-title: "[01장] 코드 품질"
-labels: 정리
+title: 00월 00주차
+labels: 독서, 정리
 assignees: ''
 
 ---
